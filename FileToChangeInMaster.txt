@@ -1,1 +1,2 @@
 File to be changed in Master after branching
+File has been changed in Master
